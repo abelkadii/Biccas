@@ -1,0 +1,14 @@
+@import './variables.scss';
+*{
+  margin: 0;
+  padding: 0;
+  outline: none;
+  box-sizing: border-box;
+}
+.app{
+  width: 100%;
+  // min-height: 100vh;
+  // height: fit-content;
+  overflow-x: hidden;
+  background-color: $white;
+}
